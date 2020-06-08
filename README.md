@@ -20,3 +20,5 @@
  2-Quelques fichiers contenant des conversations sur d'autres sites comme Kaggle qui semble utile pour ce projet.
  
    Source:https://www.kaggle.com/kausr25/chatterbotenglish
+   
+   Le fichier DL_Chatbot_Project.pynb: regroupe toutes les parties (Prepare data, Seq2Seq_model, training...) utilsées pour la création du Chatbot.
